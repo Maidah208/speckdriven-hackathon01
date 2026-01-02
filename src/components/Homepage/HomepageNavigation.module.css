@@ -1,0 +1,61 @@
+/* Styles for the HomepageNavigation component */
+.breadcrumbNav {
+  padding: 0.75rem 0;
+  background-color: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-border-color);
+}
+
+.breadcrumbList {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 0.875rem;
+}
+
+.breadcrumbItem {
+  color: var(--ifm-link-color);
+  text-decoration: none;
+  transition: color var(--ifm-transition-fast) ease;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+.breadcrumbItem:hover {
+  color: var(--ifm-link-hover-color);
+  background-color: var(--ifm-color-emphasis-100);
+  text-decoration: none;
+}
+
+.breadcrumbItem.current {
+  color: var(--ifm-text-color);
+  font-weight: var(--ifm-font-weight-bold);
+  cursor: default;
+}
+
+.breadcrumbItem.current:hover {
+  color: var(--ifm-text-color);
+  background-color: transparent;
+  cursor: default;
+}
+
+.breadcrumbSeparator {
+  color: var(--ifm-text-color-light);
+  margin: 0 0.25rem;
+  user-select: none;
+}
+
+html[data-theme='dark'] .breadcrumbItem:hover {
+  background-color: var(--ifm-color-emphasis-900);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .breadcrumbList {
+    justify-content: center;
+  }
+
+  .breadcrumbItem {
+    padding: 0.125rem 0.25rem;
+    font-size: 0.8rem;
+  }
+}

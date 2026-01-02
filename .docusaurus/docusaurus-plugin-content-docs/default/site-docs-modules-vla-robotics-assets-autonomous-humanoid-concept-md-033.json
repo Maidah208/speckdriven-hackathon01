@@ -1,0 +1,15 @@
+{
+  "id": "modules/vla-robotics/assets/autonomous-humanoid-concept",
+  "title": "Autonomous Humanoid Concept Visualization",
+  "description": "This file describes the visual concept for the integrated VLA system in the educational content.",
+  "source": "@site/docs/modules/vla-robotics/assets/autonomous-humanoid-concept.md",
+  "sourceDirName": "modules/vla-robotics/assets",
+  "slug": "/modules/vla-robotics/assets/autonomous-humanoid-concept",
+  "permalink": "/docs/modules/vla-robotics/assets/autonomous-humanoid-concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-robotics/assets/autonomous-humanoid-concept.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,58 @@
+.themeToggle {
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-border-color);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 300ms ease;
+  color: var(--ifm-text-color);
+  font-size: 18px;
+}
+
+.themeToggle:hover {
+  background: var(--ifm-color-emphasis-200);
+  transform: scale(1.1);
+}
+
+.themeToggle:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* Ensure visibility in both themes */
+.themeToggle.light {
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-text-color);
+}
+
+.themeToggle.dark {
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-text-color);
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+/* Responsive design for theme toggle */
+@media (max-width: 996px) {
+  .themeToggle {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .themeToggle {
+    width: 32px;
+    height: 32px;
+  }
+}

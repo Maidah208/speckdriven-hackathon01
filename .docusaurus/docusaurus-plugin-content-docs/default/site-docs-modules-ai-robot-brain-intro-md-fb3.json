@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/intro",
+  "title": "AI-Robot Brain (NVIDIA Isaac) - Introduction",
+  "description": "Welcome to the AI-Robot Brain Module",
+  "source": "@site/docs/modules/ai-robot-brain/intro.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/intro",
+  "permalink": "/docs/modules/ai-robot-brain/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AI-Robot Brain (NVIDIA Isaac) - Introduction",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Sensor Simulation",
+    "permalink": "/docs/modules/digital-twin/chapter-3-sensor-simulation"
+  },
+  "next": {
+    "title": "Chapter 1 - Isaac Sim",
+    "permalink": "/docs/modules/ai-robot-brain/chapter-1-isaac-sim"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ai-robot-brain/assets/isaac-ros-diagram",
+              "path": "/docs/modules/ai-robot-brain/assets/isaac-ros-diagram"
+            },
+            {
+              "id": "modules/ai-robot-brain/assets/isaac-sim-diagram",
+              "path": "/docs/modules/ai-robot-brain/assets/isaac-sim-diagram"
+            },
+            {
+              "id": "modules/ai-robot-brain/assets/nav2-diagram",
+              "path": "/docs/modules/ai-robot-brain/assets/nav2-diagram"
+            },
+            {
+              "id": "modules/ai-robot-brain/chapter-1-isaac-sim",
+              "path": "/docs/modules/ai-robot-brain/chapter-1-isaac-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ai-robot-brain/chapter-2-isaac-ros-vslam",
+              "path": "/docs/modules/ai-robot-brain/chapter-2-isaac-ros-vslam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ai-robot-brain/chapter-3-nav2-path-planning",
+              "path": "/docs/modules/ai-robot-brain/chapter-3-nav2-path-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ai-robot-brain/intro",
+              "path": "/docs/modules/ai-robot-brain/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/digital-twin/chapter-1-gazebo-physics-simulation",
+              "path": "/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/digital-twin/chapter-2-unity-environment-design",
+              "path": "/docs/modules/digital-twin/chapter-2-unity-environment-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/digital-twin/chapter-3-sensor-simulation",
+              "path": "/docs/modules/digital-twin/chapter-3-sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/digital-twin/intro",
+              "path": "/docs/modules/digital-twin/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2-robotics/chapter-1-ros2-basics",
+              "path": "/docs/modules/ros2-robotics/chapter-1-ros2-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2-robotics/chapter-2-agent-integration",
+              "path": "/docs/modules/ros2-robotics/chapter-2-agent-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2-robotics/chapter-3-urdf-humanoids",
+              "path": "/docs/modules/ros2-robotics/chapter-3-urdf-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2-robotics/index",
+              "path": "/docs/modules/ros2-robotics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla-robotics/assets/autonomous-humanoid-concept",
+              "path": "/docs/modules/vla-robotics/assets/autonomous-humanoid-concept"
+            },
+            {
+              "id": "modules/vla-robotics/assets/llm-planning-concept",
+              "path": "/docs/modules/vla-robotics/assets/llm-planning-concept"
+            },
+            {
+              "id": "modules/vla-robotics/assets/llm-planning-diagram",
+              "path": "/docs/modules/vla-robotics/assets/llm-planning-diagram"
+            },
+            {
+              "id": "modules/vla-robotics/assets/vla-integration-diagram",
+              "path": "/docs/modules/vla-robotics/assets/vla-integration-diagram"
+            },
+            {
+              "id": "modules/vla-robotics/assets/whisper-concept",
+              "path": "/docs/modules/vla-robotics/assets/whisper-concept"
+            },
+            {
+              "id": "modules/vla-robotics/assets/whisper-diagram",
+              "path": "/docs/modules/vla-robotics/assets/whisper-diagram"
+            },
+            {
+              "id": "modules/vla-robotics/chapter-1-whisper-voice-action",
+              "path": "/docs/modules/vla-robotics/chapter-1-whisper-voice-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla-robotics/chapter-2-llm-cognitive-planning",
+              "path": "/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla-robotics/chapter-3-autonomous-humanoid-capstone",
+              "path": "/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla-robotics/intro",
+              "path": "/docs/modules/vla-robotics/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

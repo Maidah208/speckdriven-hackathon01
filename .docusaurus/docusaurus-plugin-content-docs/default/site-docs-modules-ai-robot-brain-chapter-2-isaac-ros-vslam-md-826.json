@@ -1,0 +1,27 @@
+{
+  "id": "modules/ai-robot-brain/chapter-2-isaac-ros-vslam",
+  "title": "Chapter 2 - Isaac ROS for Accelerated Perception and VSLAM",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/ai-robot-brain/chapter-2-isaac-ros-vslam.md",
+  "sourceDirName": "modules/ai-robot-brain",
+  "slug": "/modules/ai-robot-brain/chapter-2-isaac-ros-vslam",
+  "permalink": "/docs/modules/ai-robot-brain/chapter-2-isaac-ros-vslam",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/chapter-2-isaac-ros-vslam.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 2 - Isaac ROS for Accelerated Perception and VSLAM",
+    "sidebar_label": "Chapter 2 - Isaac ROS VSLAM"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1 - Isaac Sim",
+    "permalink": "/docs/modules/ai-robot-brain/chapter-1-isaac-sim"
+  },
+  "next": {
+    "title": "Chapter 3 - Nav2 Path Planning",
+    "permalink": "/docs/modules/ai-robot-brain/chapter-3-nav2-path-planning"
+  }
+}

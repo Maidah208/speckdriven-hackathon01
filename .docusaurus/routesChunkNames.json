@@ -1,0 +1,169 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-6c0": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-82d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-94f": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/modules/ai-robot-brain/assets/isaac-ros-diagram-ebb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-assets-isaac-ros-diagrama-61-ab7"
+  },
+  "/docs/modules/ai-robot-brain/assets/isaac-sim-diagram-e75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-assets-isaac-sim-diagram-0-cb-4c5"
+  },
+  "/docs/modules/ai-robot-brain/assets/nav2-diagram-315": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-assets-nav-2-diagram-410-f76"
+  },
+  "/docs/modules/ai-robot-brain/chapter-1-isaac-sim-21f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-chapter-1-isaac-sime-17-9b0"
+  },
+  "/docs/modules/ai-robot-brain/chapter-2-isaac-ros-vslam-2d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-chapter-2-isaac-ros-vslam-826-b6f"
+  },
+  "/docs/modules/ai-robot-brain/chapter-3-nav2-path-planning-e96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-chapter-3-nav-2-path-planning-881-aa8"
+  },
+  "/docs/modules/ai-robot-brain/intro-1e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ai-robot-brain-introfb-3-0a1"
+  },
+  "/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation-332": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-digital-twin-chapter-1-gazebo-physics-simulation-9-db-3bf"
+  },
+  "/docs/modules/digital-twin/chapter-2-unity-environment-design-4a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-digital-twin-chapter-2-unity-environment-design-541-bb1"
+  },
+  "/docs/modules/digital-twin/chapter-3-sensor-simulation-dc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-digital-twin-chapter-3-sensor-simulationdf-5-c41"
+  },
+  "/docs/modules/digital-twin/intro-e17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-digital-twin-intro-226-476"
+  },
+  "/docs/modules/ros2-robotics/-ec4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ros-2-robotics-34-a-f2f"
+  },
+  "/docs/modules/ros2-robotics/chapter-1-ros2-basics-0ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ros-2-robotics-chapter-1-ros-2-basicse-0-e-2a4"
+  },
+  "/docs/modules/ros2-robotics/chapter-2-agent-integration-d30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ros-2-robotics-chapter-2-agent-integration-763-97a"
+  },
+  "/docs/modules/ros2-robotics/chapter-3-urdf-humanoids-192": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-ros-2-robotics-chapter-3-urdf-humanoidsc-77-19b"
+  },
+  "/docs/modules/vla-robotics/assets/autonomous-humanoid-concept-579": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-assets-autonomous-humanoid-concept-033-861"
+  },
+  "/docs/modules/vla-robotics/assets/llm-planning-concept-597": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-assets-llm-planning-concept-374-44e"
+  },
+  "/docs/modules/vla-robotics/assets/llm-planning-diagram-d66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-assets-llm-planning-diagrama-61-e7c"
+  },
+  "/docs/modules/vla-robotics/assets/vla-integration-diagram-db4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-assets-vla-integration-diagramd-24-399"
+  },
+  "/docs/modules/vla-robotics/assets/whisper-concept-4ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-assets-whisper-concept-3-d-8-51c"
+  },
+  "/docs/modules/vla-robotics/assets/whisper-diagram-485": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-assets-whisper-diagram-1-ad-33a"
+  },
+  "/docs/modules/vla-robotics/chapter-1-whisper-voice-action-d31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-chapter-1-whisper-voice-actiona-58-c99"
+  },
+  "/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning-956": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-chapter-2-llm-cognitive-planning-12-e-760"
+  },
+  "/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone-f31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-chapter-3-autonomous-humanoid-capstonee-69-666"
+  },
+  "/docs/modules/vla-robotics/intro-466": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-vla-robotics-intro-820-0ee"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

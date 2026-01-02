@@ -1,0 +1,23 @@
+{
+  "id": "modules/vla-robotics/chapter-3-autonomous-humanoid-capstone",
+  "title": "Chapter 3 - Autonomous Humanoid System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone.md",
+  "sourceDirName": "modules/vla-robotics",
+  "slug": "/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone",
+  "permalink": "/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 3 - Autonomous Humanoid System",
+    "sidebar_label": "Chapter 3 - Autonomous Humanoid Capstone"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2 - LLM Cognitive Planning",
+    "permalink": "/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning"
+  }
+}

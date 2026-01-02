@@ -1,0 +1,15 @@
+{
+  "id": "modules/vla-robotics/assets/whisper-diagram",
+  "title": "Whisper Integration Diagram",
+  "description": "This diagram illustrates the Whisper integration with robotic systems showing:",
+  "source": "@site/docs/modules/vla-robotics/assets/whisper-diagram.md",
+  "sourceDirName": "modules/vla-robotics/assets",
+  "slug": "/modules/vla-robotics/assets/whisper-diagram",
+  "permalink": "/docs/modules/vla-robotics/assets/whisper-diagram",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-robotics/assets/whisper-diagram.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

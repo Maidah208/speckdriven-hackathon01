@@ -1,0 +1,15 @@
+{
+  "id": "modules/ai-robot-brain/assets/isaac-ros-diagram",
+  "title": "Isaac ROS Diagram Description",
+  "description": "This diagram shows the Isaac ROS perception pipeline with:",
+  "source": "@site/docs/modules/ai-robot-brain/assets/isaac-ros-diagram.md",
+  "sourceDirName": "modules/ai-robot-brain/assets",
+  "slug": "/modules/ai-robot-brain/assets/isaac-ros-diagram",
+  "permalink": "/docs/modules/ai-robot-brain/assets/isaac-ros-diagram",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/assets/isaac-ros-diagram.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

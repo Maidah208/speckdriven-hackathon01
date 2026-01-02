@@ -1,0 +1,27 @@
+{
+  "id": "modules/vla-robotics/intro",
+  "title": "Vision-Language-Action (VLA) for Humanoid Robots",
+  "description": "Welcome to the VLA Module",
+  "source": "@site/docs/modules/vla-robotics/intro.md",
+  "sourceDirName": "modules/vla-robotics",
+  "slug": "/modules/vla-robotics/intro",
+  "permalink": "/docs/modules/vla-robotics/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-robotics/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vision-Language-Action (VLA) for Humanoid Robots",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3 - Nav2 Path Planning",
+    "permalink": "/docs/modules/ai-robot-brain/chapter-3-nav2-path-planning"
+  },
+  "next": {
+    "title": "Chapter 1 - Whisper Voice Action",
+    "permalink": "/docs/modules/vla-robotics/chapter-1-whisper-voice-action"
+  }
+}

@@ -1,0 +1,44 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureImage {
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.feature {
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 996px) {
+  .featureImage {
+    height: 150px;
+    width: 150px;
+  }
+}
+
+@media (max-width: 768px) {
+  .featureImage {
+    height: 120px;
+    width: 120px;
+  }
+
+  .features {
+    padding: 1rem 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .featureImage {
+    height: 100px;
+    width: 100px;
+  }
+}

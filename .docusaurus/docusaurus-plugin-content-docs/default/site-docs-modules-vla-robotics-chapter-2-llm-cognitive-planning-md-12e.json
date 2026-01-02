@@ -1,0 +1,27 @@
+{
+  "id": "modules/vla-robotics/chapter-2-llm-cognitive-planning",
+  "title": "Chapter 2 - LLM-Based Cognitive Planning for ROS 2",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning.md",
+  "sourceDirName": "modules/vla-robotics",
+  "slug": "/modules/vla-robotics/chapter-2-llm-cognitive-planning",
+  "permalink": "/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 2 - LLM-Based Cognitive Planning for ROS 2",
+    "sidebar_label": "Chapter 2 - LLM Cognitive Planning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1 - Whisper Voice Action",
+    "permalink": "/docs/modules/vla-robotics/chapter-1-whisper-voice-action"
+  },
+  "next": {
+    "title": "Chapter 3 - Autonomous Humanoid Capstone",
+    "permalink": "/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone"
+  }
+}

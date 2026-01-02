@@ -1,0 +1,24 @@
+{
+  "id": "modules/digital-twin/intro",
+  "title": "Digital Twin: Physics Simulation and Virtual Environments",
+  "description": "Welcome to the Digital Twin module, where you'll explore the integration of Gazebo physics simulation, Unity environment design, and sensor simulation for humanoid robots. This module builds on the foundational ROS 2 concepts you learned in the previous module and focuses on creating realistic simulation environments for robotics applications.",
+  "source": "@site/docs/modules/digital-twin/intro.md",
+  "sourceDirName": "modules/digital-twin",
+  "slug": "/modules/digital-twin/intro",
+  "permalink": "/docs/modules/digital-twin/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Understanding URDF for Humanoid Robots",
+    "permalink": "/docs/modules/ros2-robotics/chapter-3-urdf-humanoids"
+  },
+  "next": {
+    "title": "Chapter 1: Physics Simulation in Gazebo",
+    "permalink": "/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation"
+  }
+}

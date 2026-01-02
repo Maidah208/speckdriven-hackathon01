@@ -1,0 +1,24 @@
+{
+  "id": "modules/digital-twin/chapter-1-gazebo-physics-simulation",
+  "title": "Chapter 1: Physics Simulation in Gazebo",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation.md",
+  "sourceDirName": "modules/digital-twin",
+  "slug": "/modules/digital-twin/chapter-1-gazebo-physics-simulation",
+  "permalink": "/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Digital Twin: Physics Simulation and Virtual Environments",
+    "permalink": "/docs/modules/digital-twin/intro"
+  },
+  "next": {
+    "title": "Chapter 2: Unity Environment Design",
+    "permalink": "/docs/modules/digital-twin/chapter-2-unity-environment-design"
+  }
+}

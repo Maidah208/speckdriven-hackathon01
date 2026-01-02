@@ -1,0 +1,24 @@
+{
+  "id": "modules/digital-twin/chapter-2-unity-environment-design",
+  "title": "Chapter 2: Unity Environment Design",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/digital-twin/chapter-2-unity-environment-design.md",
+  "sourceDirName": "modules/digital-twin",
+  "slug": "/modules/digital-twin/chapter-2-unity-environment-design",
+  "permalink": "/docs/modules/digital-twin/chapter-2-unity-environment-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin/chapter-2-unity-environment-design.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Physics Simulation in Gazebo",
+    "permalink": "/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation"
+  },
+  "next": {
+    "title": "Chapter 3: Sensor Simulation",
+    "permalink": "/docs/modules/digital-twin/chapter-3-sensor-simulation"
+  }
+}

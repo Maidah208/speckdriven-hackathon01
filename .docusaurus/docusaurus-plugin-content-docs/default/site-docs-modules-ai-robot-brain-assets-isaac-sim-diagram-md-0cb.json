@@ -1,0 +1,15 @@
+{
+  "id": "modules/ai-robot-brain/assets/isaac-sim-diagram",
+  "title": "Isaac Sim Diagram Description",
+  "description": "This diagram illustrates the NVIDIA Isaac Sim environment with:",
+  "source": "@site/docs/modules/ai-robot-brain/assets/isaac-sim-diagram.md",
+  "sourceDirName": "modules/ai-robot-brain/assets",
+  "slug": "/modules/ai-robot-brain/assets/isaac-sim-diagram",
+  "permalink": "/docs/modules/ai-robot-brain/assets/isaac-sim-diagram",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/assets/isaac-sim-diagram.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

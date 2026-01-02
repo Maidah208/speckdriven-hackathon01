@@ -1,0 +1,27 @@
+{
+  "id": "modules/ros2-robotics/index",
+  "title": "ROS 2 Robotics Education Module",
+  "description": "Welcome to the ROS 2 Robotics Education Module! This module is designed for robotics and AI students focusing on physical AI systems. You'll learn about middleware for humanoid robot control via ROS 2.",
+  "source": "@site/docs/modules/ros2-robotics/index.md",
+  "sourceDirName": "modules/ros2-robotics",
+  "slug": "/modules/ros2-robotics/",
+  "permalink": "/docs/modules/ros2-robotics/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2-robotics/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Nervous System",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "ROS 2 Basics: Nodes, Topics, and Services",
+    "permalink": "/docs/modules/ros2-robotics/chapter-1-ros2-basics"
+  }
+}

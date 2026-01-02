@@ -1,0 +1,15 @@
+{
+  "id": "modules/ai-robot-brain/assets/nav2-diagram",
+  "title": "Nav2 Diagram Description",
+  "description": "This diagram depicts the Nav2 navigation system for humanoid robots with:",
+  "source": "@site/docs/modules/ai-robot-brain/assets/nav2-diagram.md",
+  "sourceDirName": "modules/ai-robot-brain/assets",
+  "slug": "/modules/ai-robot-brain/assets/nav2-diagram",
+  "permalink": "/docs/modules/ai-robot-brain/assets/nav2-diagram",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain/assets/nav2-diagram.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
