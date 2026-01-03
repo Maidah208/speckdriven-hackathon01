@@ -23,7 +23,7 @@ export default function Home() {
         <HomepageImages />
 
         {/* Features Section - Using new consistent component */}
-        <HomepageFeatures />
+        {/*<HomepageFeatures />*/}
       </main>
     </Layout>
   );
